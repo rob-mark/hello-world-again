@@ -1,2 +1,6 @@
 # hello-world-again
-trying this again
+Rob here,
+
+Trying to learn GitHub.
+
+That's all.
